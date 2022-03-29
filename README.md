@@ -1,4 +1,6 @@
 # Delivery fee calculator
+Simple calculator to calculate delivery fee
+
 ## Available Scripts
 
 In the project directory, you can run:
