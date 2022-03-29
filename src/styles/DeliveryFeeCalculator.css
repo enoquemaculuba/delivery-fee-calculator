@@ -1,0 +1,13 @@
+
+.CalculatorContainer{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 25px;
+    gap: 10px;
+    justify-content: start;
+    align-items: start;
+    padding: 20px;
+    width: 500px;
+    max-width: 90vw;
+}
